@@ -5,7 +5,7 @@
  1. Install npm packages using 'npm install' command from Angular 7 folder.
  
 
- # Step By Step Explanation (tomorrow)
+ # Step By Step Explanation
  
  Video Tutorial : https://youtu.be/YvkMv7LzCw
  
